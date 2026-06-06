@@ -165,7 +165,7 @@ Validated on 99 images (50 unstained lettuce + 49 stained rice):
 
 If you use this script in your research, please cite the following paper:
 
-> Ogawa, A. (2025). Development and validation of a Python script for automatic measurement of root morphological parameters using flatbed scanner images in comparison with WinRhizo. *Plant Root*, XX: XX–XX. https://doi.org/XXXXXXXX
+> Ogawa, A. (2025). Development and validation of a Python script for automatic measurement of root morphological parameters using flatbed scanner images in comparison with WinRhizo. *Plant Root*, XX: XX–XX. https://doi.org/10.5281/zenodo.20571517
 
 BibTeX:
 ```bibtex
@@ -178,7 +178,7 @@ BibTeX:
   year    = {2025},
   volume  = {XX},
   pages   = {XX--XX},
-  doi     = {XXXXXXXX}
+  doi     = {10.5281/zenodo.20571517}
 }
 ```
 
